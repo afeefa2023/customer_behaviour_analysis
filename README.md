@@ -8,7 +8,9 @@ Customer Behavior Analysis is a process that involves examining and understandin
 
 
 1.Data source:CSV file
+
 2.Notebook:Google Colab
+
 3.Data visualization:plotly
 
 **Data Cleaning**
